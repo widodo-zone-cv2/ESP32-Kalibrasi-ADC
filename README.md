@@ -25,7 +25,7 @@ Secara default, program akan menghasilkan `float ADC_LUT`, yang memakan lebih ba
 
 1. Hubungkan kabel jumper antara GPIO 25 dan GPIO 35 (yaitu A7);
 2. Pilih tabel yang ingin Anda buat (float atau integer);
-3. Jalankan sketsa `main.cpp` dari Arduino IDE;
+3. Jalankan sketsa `KalibrasiADC.ino` dari Arduino IDE;
 Setelah program berhenti, salin dan tempel seluruh tabel dari Serial Monitor ke sketsa Anda untuk digunakan.
 Bagaimana Cara Menggunakan LUT?
 Lihat sketsa di direktori contoh untuk mengetahui cara menerapkan LUT dalam program Anda. Jalankan sketsa dan lihat hasilnya di Serial Plotter.
