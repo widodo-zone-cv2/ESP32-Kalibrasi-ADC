@@ -1,6 +1,6 @@
 Repositori ini berisi kode untuk membuat tabel lookup (LUT) yang digunakan untuk mengoreksi masalah non-linearitas ADC. Contoh juga disertakan mengenai cara menggunakan LUT dalam program Anda.
 
-Kode ini berdasarkan karya dari [Helmut Weber](https://github.com/MacLeod-D/ESP32-ADC), yang pertama kali dijelaskan di [forum diskusi ESP32]((https://esp32.com/viewtopic.php?f=19&t=2881&start=30#p47663)), namun telah modifikasi dengan perbaikan bug oleh Henry Cheung.
+Kode ini berdasarkan karya dari [Helmut Weber](https://github.com/MacLeod-D/ESP32-ADC), yang pertama kali dijelaskan di [forum diskusi ESP32]((https://esp32.com/viewtopic.php?f=19&t=2881&start=30#p47663)), namun telah modifikasi dengan perbaikan bug oleh Henry Cheung, kemudian dilakukan modifikasi oleh [widodo](https://github.com/widodo-zone-cv2/ESP32-Kalibrasi-ADC/edit/main/README.md) 
 
 dan pada repository ini sedikit telah saya modifikasi, untuk beberapa kode program pada pembacaan ADC setelah dilakukan kalibrasi.
 
